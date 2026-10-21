@@ -37,8 +37,8 @@ Group project (S1, BUT Informatique, IUT de Bordeaux) by Zakaria Sabri, Rafaël 
 ## Installation and Getting Started
 
 ```bash
-git clone [https://github.com/Chocopter/PU-Blog.git](https://github.com/Chocopter/PU-Blog.git)
-cd PU-Blog
+git clone [https://github.com/Chocopter/IUT-Blog.git](https://github.com/Chocopter/IUT-Blog.git)
+cd IUT-Blog
 chmod +x blog.sh
 ./blog.sh editer welcome
 ./blog.sh construire
